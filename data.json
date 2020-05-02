@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Christhoval's House",
+    "coordinates": {
+      "latitude": 9.047773,
+      "longitude": -79.467308
+    }
+  },
+  {
+    "name": "Orale Tacos Y Tequilas",
+    "coordinates": {
+      "latitude": 9.051197,
+      "longitude": -79.460346
+    }
+  },
+  {
+    "name": "PesKito | Brisas del Golf",
+    "coordinates": {
+      "latitude": 9.054175,
+      "longitude": -79.459380
+    }
+  },
+  {
+    "name": "FrutyBurgers",
+    "coordinates": {
+      "latitude": 9.059144,
+      "longitude": -79.451175
+    }
+  },
+  {
+    "name": "Oh-Toro Ramen & Sushi",
+    "coordinates": {
+      "latitude": 9.049207,
+      "longitude": -79.448033
+    }
+  }
+]
